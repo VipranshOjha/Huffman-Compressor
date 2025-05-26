@@ -1,6 +1,6 @@
-# 🗜️ Huffman Image Compressor
+# 🗜️ Huffman Compressor
 
-A simple image compression and decompression tool using the Huffman Coding algorithm. Built with Python and Tkinter, this project was created out of necessity — to transfer a large number of image files while dealing with limited storage space
+A simple compression and decompression tool using the Huffman Coding algorithm. Built with Python and Tkinter, this project was created out of necessity — to transfer a large number of image files while dealing with limited storage space
 — but it works seamlessly with **any file type**, including text documents, PDFs, and more.
 
 ## 🚀 Features
